@@ -1,4 +1,5 @@
 import re
+from functools import lru_cache
 
 
 standart_dirt = [1093, 1091, 1081, 124, 1073, 1083, 1103, 124, 1077, 1073, 124, 
